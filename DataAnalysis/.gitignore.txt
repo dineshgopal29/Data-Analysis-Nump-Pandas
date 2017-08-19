@@ -1,0 +1,7 @@
+#Ignore All Syastem Files
+**/.DS_Store
+**/.idea
+**./.ipynb_checkpoints
+**./.csv
+**./.pdf
+**./txt
